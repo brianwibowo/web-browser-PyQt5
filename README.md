@@ -5,11 +5,11 @@ Proyek ini adalah aplikasi web browser sederhana yang dibangun menggunakan PyQt5
 
 ## Kontributor
 KELOMPOK 1 PEMROGRAMAN BERORIENTASI OBJEK:
- 1.⁠ ⁠Pradipa Dani Firmansyah (5302422060)
- 2.⁠ ⁠Chantika Mutiara Pratama Subhan (5302422062)
- 3.⁠ ⁠Apriansyah Wibowo (5302422063)
- 4.⁠ ⁠Zuhal Arrizu Al Haq (5302422075)
- 5.⁠ ⁠Rachmadan Cahya Kuntara (5302422082)
+1. ⁠Pradipa Dani Firmansyah (5302422060)
+2. ⁠Chantika Mutiara Pratama Subhan (5302422062)
+3. ⁠Apriansyah Wibowo (5302422063)
+4. ⁠Zuhal Arrizu Al Haq (5302422075)
+5. ⁠Rachmadan Cahya Kuntara (5302422082)
 
 ## Fitur-fitur
 - **Pengelolaan Tab:** Buka, tutup, dan navigasi antara beberapa tab.
