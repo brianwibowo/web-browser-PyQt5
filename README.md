@@ -49,3 +49,10 @@ Akses pengelola bookmark melalui tombol "Kelola Bookmark" di toolbar. Tambahkan 
 ## Riwayat
 Lihat riwayat penjelajahan dengan mengklik tombol "Riwayat" di toolbar.
 
+# UML
+## Activity Diagram
+uml/Activity Diagram/Activity Diagram.jpg
+## Class Diagram
+## Sequence Diagram
+## Use Case Diagram
+
