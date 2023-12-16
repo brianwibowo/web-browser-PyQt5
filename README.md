@@ -51,7 +51,7 @@ Lihat riwayat penjelajahan dengan mengklik tombol "Riwayat" di toolbar.
 
 # UML
 ## Activity Diagram
-uml/Activity Diagram/Activity Diagram.jpg
+![Activity Diagram](uml/Activity%20Diagram/Activity%20Diagram.jpg)
 ## Class Diagram
 ## Sequence Diagram
 ## Use Case Diagram
