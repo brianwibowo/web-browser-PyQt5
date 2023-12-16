@@ -70,7 +70,7 @@ Lihat riwayat penjelajahan dengan mengklik tombol "Riwayat" di toolbar.
    ![CTRL + R (Reload Page)](uml/Sequence%20Diagram/CTRL%20%2B%20R(Reload%20Page).png)
 
 ### 6. CTRL + H (Back To Home)
-   ![CTRL + H (Back To Home)](uml/Sequence%20Diagram/CTRL%20%2B%20H(Back%20To%20Home).png)
+   ![CTRL + H (Back To Home)](https://raw.githubusercontent.com/brianwibowo/web-browser-PyQt5/fad2f5994b05da345fe7daa4e729c31c05c3e0b4/uml/Sequence%20Diagram/CTRL%20%2B%20H%20(Back%20To%20Home).png)
 
 ### 7. CTRL + G (Search Dialog)
    ![CTRL + G (Search Dialog)](uml/Sequence%20Diagram/CTRL%20%2B%20G(Search%20Dialog).png)
