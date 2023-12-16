@@ -50,9 +50,11 @@ Akses pengelola bookmark melalui tombol "Kelola Bookmark" di toolbar. Tambahkan 
 Lihat riwayat penjelajahan dengan mengklik tombol "Riwayat" di toolbar.
 
 # UML
-## Activity Diagram
+### Class Diagram
+https://github.com/brianwibowo/web-browser-PyQt5/blob/d77c8bb3f852fae578c067dbd1e0e19692905943/uml/Class%20Diagram/Class%20diagram.jpg
+### Sequence Diagram
+
+### Activity Diagram
 ![Activity Diagram](uml/Activity%20Diagram/Activity%20Diagram.jpg)
-## Class Diagram
-## Sequence Diagram
-## Use Case Diagram
+### Use Case Diagram
 
