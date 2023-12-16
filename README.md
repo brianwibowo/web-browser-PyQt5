@@ -54,49 +54,49 @@ Lihat riwayat penjelajahan dengan mengklik tombol "Riwayat" di toolbar.
 ![Class Diagram](uml/Class%20Diagram/Class%20diagram.jpg)
 
 ### Sequence Diagram
-1. **Membuka Aplikasi**
+### 1. Membuka Aplikasi 
    ![Membuka Aplikasi](uml/Sequence%20Diagram/Membuka%20Aplikasi.png)
 
-2. **Manajemen Tab**
+### 2. Manajemen Tab
    ![Manajemen Tab](uml/Sequence%20Diagram/Manajemen%20Tab.png)
 
-3. **CTRL + B (Backward)**
+### 3. CTRL + B (Backward)
    ![CTRL + B (Backward)](uml/Sequence%20Diagram/CTRL%20%2B%20B(Backward).png)
 
-4. **CTRL + F (Forward)**
+### 4. CTRL + F (Forward)
    ![CTRL + F (Forward)](uml/Sequence%20Diagram/CTRL%20%2B%20F(Forward).png)
 
-5. **CTRL + R (Reload Page)**
+### 5. CTRL + R (Reload Page)
    ![CTRL + R (Reload Page)](uml/Sequence%20Diagram/CTRL%20%2B%20R(Reload%20Page).png)
 
-6. **CTRL + H (Back To Home)**
+### 6. CTRL + H (Back To Home)
    ![CTRL + H (Back To Home)](uml/Sequence%20Diagram/CTRL%20%2B%20H(Back%20To%20Home).png)
 
-7. **CTRL + G (Search Dialog)**
+### 7. CTRL + G (Search Dialog)
    ![CTRL + G (Search Dialog)](uml/Sequence%20Diagram/CTRL%20%2B%20G(Search%20Dialog).png)
 
-8. **CTRL + T (Open New Window)**
+### 8. CTRL + T (Open New Window)
    ![CTRL + T (Open New Window)](uml/Sequence%20Diagram/CTRL%20%2B%20T(Open%20New%20Window).png)
 
-9. **Navigasi**
+### 9. Navigasi
    ![Navigasi](uml/Sequence%20Diagram/Navigasi.png)
 
-10. **Show History**
+### 10. Show History
     ![Show History](uml/Sequence%20Diagram/Show%20History.png)
 
-11. **Manajemen Bookmark**
+### 11. Manajemen Bookmark
     ![Manajemen Bookmark](uml/Sequence%20Diagram/Manajemen%20Bookmark.png)
 
-12. **Incognito**
+### 12. Incognito
     ![Incognito](uml/Sequence%20Diagram/Incognito.png)
 
-13. **Mode Malam**
+### 13. Mode Malam
     ![Mode Malam](uml/Sequence%20Diagram/Mode%20Malam.png)
 
-14. **Clear Browsing History**
+### 14. Clear Browsing History
     ![Clear Browsing History](uml/Sequence%20Diagram/Clear%20Browsing%20History.png)
 
-15. **Menutup Aplikasi**
+### 15. Menutup Aplikasi
     ![Menutup Aplikasi](uml/Sequence%20Diagram/Menutup%20Aplikasi.png)
 
 
