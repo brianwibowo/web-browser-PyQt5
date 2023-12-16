@@ -82,22 +82,22 @@ Lihat riwayat penjelajahan dengan mengklik tombol "Riwayat" di toolbar.
    ![Navigasi](uml/Sequence%20Diagram/Navigasi.png)
 
 ### 10. Show History
-     ![Show History](https://raw.githubusercontent.com/brianwibowo/web-browser-PyQt5/07a624f89c90bd7f56eed979fdb224a19005ba65/uml/Sequence%20Diagram/Show%20History.png)
+   ![Show History](https://raw.githubusercontent.com/brianwibowo/web-browser-PyQt5/07a624f89c90bd7f56eed979fdb224a19005ba65/uml/Sequence%20Diagram/Show%20History.png)
 
 ### 11. Manajemen Bookmark
-    ![Manajemen Bookmark](https://raw.githubusercontent.com/brianwibowo/web-browser-PyQt5/07a624f89c90bd7f56eed979fdb224a19005ba65/uml/Sequence%20Diagram/Manajemen%20Bookmark.png)
+   ![Manajemen Bookmark](https://raw.githubusercontent.com/brianwibowo/web-browser-PyQt5/07a624f89c90bd7f56eed979fdb224a19005ba65/uml/Sequence%20Diagram/Manajemen%20Bookmark.png)
 
 ### 12. Incognito
-     ![Incognito](https://raw.githubusercontent.com/brianwibowo/web-browser-PyQt5/07a624f89c90bd7f56eed979fdb224a19005ba65/uml/Sequence%20Diagram/Incognito.png)
+   ![Incognito](https://raw.githubusercontent.com/brianwibowo/web-browser-PyQt5/07a624f89c90bd7f56eed979fdb224a19005ba65/uml/Sequence%20Diagram/Incognito.png)
 
 ### 13. Mode Malam
-    ![Mode Malam](https://raw.githubusercontent.com/brianwibowo/web-browser-PyQt5/07a624f89c90bd7f56eed979fdb224a19005ba65/uml/Sequence%20Diagram/Mode%20Malam.png)
+   ![Mode Malam](https://raw.githubusercontent.com/brianwibowo/web-browser-PyQt5/07a624f89c90bd7f56eed979fdb224a19005ba65/uml/Sequence%20Diagram/Mode%20Malam.png)
 
 ### 14. Clear Browsing History
-     ![Clear Browsing History](https://raw.githubusercontent.com/brianwibowo/web-browser-PyQt5/07a624f89c90bd7f56eed979fdb224a19005ba65/uml/Sequence%20Diagram/Clear%20Browsing%20History.png)
+   ![Clear Browsing History](https://raw.githubusercontent.com/brianwibowo/web-browser-PyQt5/07a624f89c90bd7f56eed979fdb224a19005ba65/uml/Sequence%20Diagram/Clear%20Browsing%20History.png)
 
 ### 15. Menutup Aplikasi
-    ![Menutup Aplikasi](https://raw.githubusercontent.com/brianwibowo/web-browser-PyQt5/07a624f89c90bd7f56eed979fdb224a19005ba65/uml/Sequence%20Diagram/Menutup%20Aplikasi.png)
+   ![Menutup Aplikasi](https://raw.githubusercontent.com/brianwibowo/web-browser-PyQt5/07a624f89c90bd7f56eed979fdb224a19005ba65/uml/Sequence%20Diagram/Menutup%20Aplikasi.png)
 
 
 ### Activity Diagram
