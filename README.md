@@ -52,9 +52,26 @@ Lihat riwayat penjelajahan dengan mengklik tombol "Riwayat" di toolbar.
 # UML
 ### Class Diagram
 ![Class Diagram](uml/Class%20Diagram/Class%20diagram.jpg)
+
 ### Sequence Diagram
+1. ![Membuka Aplikasi](uml/Sequence%20Diagram/Membuka%20Aplikasi.png)
+2. ![Manajemen Tab](uml/Sequence%20Diagram/Manajemen%20Tab.png)
+3. ![CTRL + B (Backward)](uml/Sequence%20Diagram/CTRL%20%2B%20B(Backward).png)
+4. ![CTRL + F (Forward)](uml/Sequence%20Diagram/CTRL%20%2B%20F(Forward).png)
+5. ![CTRL + R (Reload Page)](uml/Sequence%20Diagram/CTRL%20%2B%20R(Reload%20Page).png)
+6. ![CTRL + H (Back To Home)](uml/Sequence%20Diagram/CTRL%20%2B%20H(Back%20To%20Home).png)
+7. ![CTRL + G (Search Dialog)](uml/Sequence%20Diagram/CTRL%20%2B%20G(Search%20Dialog).png)
+8. ![CTRL + T (Open New Window)](uml/Sequence%20Diagram/CTRL%20%2B%20T(Open%20New%20Window).png)
+9. ![Navigasi](uml/Sequence%20Diagram/Navigasi.png)
+10. ![Show History](uml/Sequence%20Diagram/Show%20History.png)
+11. ![Manajemen Bookmark](uml/Sequence%20Diagram/Manajemen%20Bookmark.png)
+12. ![Incognito](uml/Sequence%20Diagram/Incognito.png)
+13. ![Mode Malam](uml/Sequence%20Diagram/Mode%20Malam.png)
+14. ![Clear Browsing History](uml/Sequence%20Diagram/Clear%20Browsing%20History.png)
+15. ![Menutup Aplikasi](uml/Sequence%20Diagram/Menutup%20Aplikasi.png)
 
 ### Activity Diagram
 ![Activity Diagram](uml/Activity%20Diagram/Activity%20Diagram.jpg)
+
 ### Use Case Diagram
 ![Use Case Diagram](uml/Use%20Case%20Diagram/Use%20Case%20Diagram%20.jpg)
