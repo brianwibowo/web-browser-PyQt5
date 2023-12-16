@@ -51,10 +51,10 @@ Lihat riwayat penjelajahan dengan mengklik tombol "Riwayat" di toolbar.
 
 # UML
 ### Class Diagram
-https://github.com/brianwibowo/web-browser-PyQt5/blob/d77c8bb3f852fae578c067dbd1e0e19692905943/uml/Class%20Diagram/Class%20diagram.jpg
+![Class Diagram](uml/Class%20Diagram/Class%20diagram.jpg)
 ### Sequence Diagram
 
 ### Activity Diagram
 ![Activity Diagram](uml/Activity%20Diagram/Activity%20Diagram.jpg)
 ### Use Case Diagram
-
+![Use Case Diagram](uml/Use%20Case%20Diagram/Use%20Case%20Diagram%20.jpg)
